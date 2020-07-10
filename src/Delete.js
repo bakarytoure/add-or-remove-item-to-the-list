@@ -7,7 +7,7 @@ function TodoList() {
   const [items, setItems] = useState([
     { id: uuid(), text: "Banana" },
     { id: uuid(), text: "Apple" },
-    { id: uuid(), text: "Patato" },
+    { id: uuid(), text: "strawberry" },
     { id: uuid(), text: "Mango" },
   ]);
   return (
